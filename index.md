@@ -1,5 +1,7 @@
 You probably know that Minecraft gold pickaxes have the worst durability ever. But did you know their durability-points are the same as wooden pickaxes?
 
+This happens just because gold pickaxes have the best efficiency (with some caveats).
+
 This "illusion" is what I call, "The Gold Pickaxe Effect" (GPE for short).
 
 This effect arises in places other than MC:
